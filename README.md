@@ -47,8 +47,8 @@ Run the program and choose RTL viewer to get RTL realization.
 
 ```python 
 Program for PROM 
-Developed by: Monisha T
-RegisterNumber: 212221240029
+Developed by: PRAGATHEESVARAN AB
+RegisterNumber: 212221240039
 
 module ROM_Code(out, addr, CS);
 output[15:0] out;
